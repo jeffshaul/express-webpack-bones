@@ -1,5 +1,5 @@
 # express-webpack-bones
-Scaffolding of an Express server serving a frontend built by Webpack
+Scaffolding of an Express server serving a frontend built by Webpack.
 
 1. clone
 2. `npm install`
