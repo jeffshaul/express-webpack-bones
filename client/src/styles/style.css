@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Troika";
+    src: url("../fonts/troika.otf");
+}
+
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: maroon;
+    font-family: 'Troika';
+}
